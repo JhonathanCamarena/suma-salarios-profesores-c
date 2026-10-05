@@ -19,15 +19,12 @@ gcc salarios_profesores.c -o salarios
 
 ## Ejemplo de uso
 ```
-¿Cuantos profesores desea ingresar?: 3
-Ingrese el salario del profesor 1: 800
-Ingrese el salario del profesor 2: 900
-Ingrese el salario del profesor 3: 1000
-El total de salarios de los 3 profesores es: 2700.00
+¿Cuantos profesores desea ingresar?: 4
+Ingrese el salario del profesor 1: 100
+Ingrese el salario del profesor 2: 230
+Ingrese el salario del profesor 3: 450
+Ingrese el salario del profesor 4: 670
+El total de salarios de los 4 profesores es: 1450.00
 ```
-
-## Captura de pantalla
-*(agrega aquí tu captura del programa funcionando)*
-
 ## Autor
 Jhonathan Camarena, estudiante de Licenciatura en Redes Informáticas, UTP.
